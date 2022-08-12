@@ -1,4 +1,4 @@
-# A MNIST Digit Recognition + Streamlit Web App + Deployed on Heroku
+## MNIST Digit Recognition + Streamlit Web App + Deployed on Heroku
 
 A simple digit recognition demo using [keras](https://www.tensorflow.org/overview) and [streamlit](https://www.streamlit.io/). 
 It has been further deployed on Heroku.
