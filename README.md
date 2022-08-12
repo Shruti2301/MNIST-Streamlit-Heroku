@@ -1,8 +1,7 @@
-# Streamlit MNIST demo (drawable)
+# A MNIST Digit Recognition + Streamlit Web App + Deployed on Heroku
 
-A simple digit recognition demo using [keras](https://www.tensorflow.org/overview) and [streamlit](https://www.streamlit.io/). It uses [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) for drawing on canvas.
-
-![demo](img/demo.gif)
+A simple digit recognition demo using [keras](https://www.tensorflow.org/overview) and [streamlit](https://www.streamlit.io/). 
+It has been further deployed on Heroku.
 
 [streamlit](https://www.streamlit.io/) is an open-source app framework, which is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps. All in pure Python, no longer fiddling with javascript.
 
