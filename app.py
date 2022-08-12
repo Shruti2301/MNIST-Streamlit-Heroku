@@ -12,9 +12,9 @@ if not os.path.isdir(MODEL_DIR):
 model = load_model('model')
 # st.markdown('<style>body{color: White; background-color: DarkSlateGrey}</style>', unsafe_allow_html=True)
 
-st.title('My Digit Recognizer')
+st.title('Digit Recognizer by Shruti')
 st.markdown('''
-Try to write a digit!
+Try writing a digit between 0-9 and let the model predict.
 ''')
 
 # data = np.random.rand(28,28)
